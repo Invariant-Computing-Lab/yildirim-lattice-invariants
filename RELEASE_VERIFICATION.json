@@ -1,0 +1,22 @@
+{
+  "repo": "yildirim-lattice-invariants",
+  "status": "PASS",
+  "commands": [
+    {
+      "repo": "yildirim-lattice-invariants",
+      "command": [
+        "python",
+        "code/run_all_experiments.py",
+        "--atlas-n",
+        "2000"
+      ],
+      "seconds": 35.14,
+      "returncode": 0,
+      "log": "/mnt/data/release_work/rerun_logs/yildirim-lattice-invariants_0.log",
+      "log_tail": "{\n  \"status\": \"ok\",\n  \"out\": \"/mnt/data/release_work/runs/yildirim-lattice-invariants/results\",\n  \"session\": {\n    \"python\": \"3.13.5 (main, Jun 25 2025, 18:55:22) [GCC 14.2.0]\",\n    \"platform\": \"Linux-6.18.55-x86_64-with-glibc2.41\",\n    \"numpy\": \"2.3.5\",\n    \"master_seed\": 20260812,\n    \"atlas_n\": 2000,\n    \"scipy\": \"1.17.0\",\n    \"matplotlib\": \"3.10.8\"\n  }\n}\n"
+    }
+  ],
+  "checked_utc": "2026-10-21T16:54:21.651849+00:00",
+  "environment": "Linux CPython 3.13.5; existing installed dependencies via isolated test venv with inherited /opt/pyvenv site-packages. Not an independent clean dependency installation.",
+  "scientific_thresholds_or_sample_counts_changed": false
+}

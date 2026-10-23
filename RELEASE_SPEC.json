@@ -1,0 +1,28 @@
+{
+  "repo": "yildirim-lattice-invariants",
+  "codes": [
+    "N008"
+  ],
+  "commands": [
+    [
+      "python",
+      "code/run_all_experiments.py",
+      "--atlas-n",
+      "2000"
+    ]
+  ],
+  "check_cwd": ".",
+  "scope": "Original mathematical benchmark with archived results. Computational replay is not proof auditing, priority review or physical validation.",
+  "status": "LOCAL_RUNTIME_PASSED_OWNER_GATES_OPEN",
+  "source_unchanged": true,
+  "source_archive_sha256": "87a12979ea2d807e29b2d5d111d03edf6a3030767f2eb489157207b91ccc558f",
+  "owner_approval_required": true,
+  "public_uploaded": false,
+  "source_reference": "See private release registry; source hashes retained.",
+  "last_check": {
+    "passed": true,
+    "checked_utc": "2026-10-21T16:54:21.651849+00:00",
+    "scope": "Original mathematical benchmark with archived results. Computational replay is not proof auditing, priority review or physical validation."
+  },
+  "runtime_status": "PASS"
+}

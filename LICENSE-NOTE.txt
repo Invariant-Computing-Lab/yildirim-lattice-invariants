@@ -1,0 +1,4 @@
+Suggested release terms for the original manuscript text, synthetic data tables, and figures: CC BY 4.0.
+Suggested release terms for original source code: MIT License.
+
+Before public archival release, the author should add the full selected license texts and verify compatibility with the target repository and journal. Third-party dependencies remain under their own licenses.

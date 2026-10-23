@@ -1,0 +1,28 @@
+{
+  "academic_publications_excluded_from_corrected_package": true,
+  "excluded_publication_related_paths": [
+    {
+      "path": "manuscript/main_manuscript.tex",
+      "sha256": "d93a78d248503f8a28b799466f03aef612edd5295541fab6f5ce46d4998cfd79"
+    },
+    {
+      "path": "manuscript/main_manuscript.md",
+      "sha256": "52bd47e2e12b4254144412e3927454f97482d4ff4f124d09f9a95f234118978d"
+    },
+    {
+      "path": "supplement/supplementary_appendix.md",
+      "sha256": "528c5f557c7d8f16f2cc26accb20bf7891d2a4082eeffc5f1736eaa15727b14c"
+    },
+    {
+      "path": "supplement/supplementary_appendix.tex",
+      "sha256": "882b144f6e5c22a009e33262a6fb490af620873e35170fcc8e2a8a559ab38027"
+    }
+  ],
+  "new_zip_copies_software_files_only": true,
+  "original_release_zip_filename": "yildirim-lattice-invariants__CP03R1__416c69062efa.zip",
+  "original_release_zip_sha256": "98818717f6e9a37d50e07ca5105fb08871ad53dc5f5ce297ef4b5c3f4e50ad7e",
+  "public_release_approved": false,
+  "repository": "yildirim-lattice-invariants",
+  "schema": "invariant.v7.publication_exclusion.v1",
+  "source_archive_unchanged": true
+}

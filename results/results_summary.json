@@ -1,0 +1,1002 @@
+{
+  "exp0_hull": [
+    {
+      "n": 2,
+      "precursor_points": 9,
+      "hull_vertices_numeric": 4,
+      "correct_vertices_2^n": 4,
+      "legacy_vertices_claim": 8,
+      "max_support_abs_error_500_dirs": 0.0
+    },
+    {
+      "n": 3,
+      "precursor_points": 27,
+      "hull_vertices_numeric": 8,
+      "correct_vertices_2^n": 8,
+      "legacy_vertices_claim": 16,
+      "max_support_abs_error_500_dirs": 0.0
+    },
+    {
+      "n": 4,
+      "precursor_points": 81,
+      "hull_vertices_numeric": 16,
+      "correct_vertices_2^n": 16,
+      "legacy_vertices_claim": 32,
+      "max_support_abs_error_500_dirs": 8.881784197001252e-16
+    },
+    {
+      "n": 5,
+      "precursor_points": 243,
+      "hull_vertices_numeric": 32,
+      "correct_vertices_2^n": 32,
+      "legacy_vertices_claim": 64,
+      "max_support_abs_error_500_dirs": 1.7763568394002505e-15
+    },
+    {
+      "n": 6,
+      "precursor_points": 729,
+      "hull_vertices_numeric": 64,
+      "correct_vertices_2^n": 64,
+      "legacy_vertices_claim": 128,
+      "max_support_abs_error_500_dirs": 1.7763568394002505e-15
+    }
+  ],
+  "exp1_exact": [
+    {
+      "n": 1,
+      "sum_nonempty_faces_including_polytope": 3,
+      "expected_3^n": 3,
+      "ternary_identity_ok": true,
+      "boundary_euler": 2,
+      "expected_boundary_euler": 2,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 2,
+      "sum_nonempty_faces_including_polytope": 9,
+      "expected_3^n": 9,
+      "ternary_identity_ok": true,
+      "boundary_euler": 0,
+      "expected_boundary_euler": 0,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 3,
+      "sum_nonempty_faces_including_polytope": 27,
+      "expected_3^n": 27,
+      "ternary_identity_ok": true,
+      "boundary_euler": 2,
+      "expected_boundary_euler": 2,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 4,
+      "sum_nonempty_faces_including_polytope": 81,
+      "expected_3^n": 81,
+      "ternary_identity_ok": true,
+      "boundary_euler": 0,
+      "expected_boundary_euler": 0,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 5,
+      "sum_nonempty_faces_including_polytope": 243,
+      "expected_3^n": 243,
+      "ternary_identity_ok": true,
+      "boundary_euler": 2,
+      "expected_boundary_euler": 2,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 6,
+      "sum_nonempty_faces_including_polytope": 729,
+      "expected_3^n": 729,
+      "ternary_identity_ok": true,
+      "boundary_euler": 0,
+      "expected_boundary_euler": 0,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 7,
+      "sum_nonempty_faces_including_polytope": 2187,
+      "expected_3^n": 2187,
+      "ternary_identity_ok": true,
+      "boundary_euler": 2,
+      "expected_boundary_euler": 2,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 8,
+      "sum_nonempty_faces_including_polytope": 6561,
+      "expected_3^n": 6561,
+      "ternary_identity_ok": true,
+      "boundary_euler": 0,
+      "expected_boundary_euler": 0,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 9,
+      "sum_nonempty_faces_including_polytope": 19683,
+      "expected_3^n": 19683,
+      "ternary_identity_ok": true,
+      "boundary_euler": 2,
+      "expected_boundary_euler": 2,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 10,
+      "sum_nonempty_faces_including_polytope": 59049,
+      "expected_3^n": 59049,
+      "ternary_identity_ok": true,
+      "boundary_euler": 0,
+      "expected_boundary_euler": 0,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 11,
+      "sum_nonempty_faces_including_polytope": 177147,
+      "expected_3^n": 177147,
+      "ternary_identity_ok": true,
+      "boundary_euler": 2,
+      "expected_boundary_euler": 2,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 12,
+      "sum_nonempty_faces_including_polytope": 531441,
+      "expected_3^n": 531441,
+      "ternary_identity_ok": true,
+      "boundary_euler": 0,
+      "expected_boundary_euler": 0,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 13,
+      "sum_nonempty_faces_including_polytope": 1594323,
+      "expected_3^n": 1594323,
+      "ternary_identity_ok": true,
+      "boundary_euler": 2,
+      "expected_boundary_euler": 2,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 14,
+      "sum_nonempty_faces_including_polytope": 4782969,
+      "expected_3^n": 4782969,
+      "ternary_identity_ok": true,
+      "boundary_euler": 0,
+      "expected_boundary_euler": 0,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 15,
+      "sum_nonempty_faces_including_polytope": 14348907,
+      "expected_3^n": 14348907,
+      "ternary_identity_ok": true,
+      "boundary_euler": 2,
+      "expected_boundary_euler": 2,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 16,
+      "sum_nonempty_faces_including_polytope": 43046721,
+      "expected_3^n": 43046721,
+      "ternary_identity_ok": true,
+      "boundary_euler": 0,
+      "expected_boundary_euler": 0,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 17,
+      "sum_nonempty_faces_including_polytope": 129140163,
+      "expected_3^n": 129140163,
+      "ternary_identity_ok": true,
+      "boundary_euler": 2,
+      "expected_boundary_euler": 2,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 18,
+      "sum_nonempty_faces_including_polytope": 387420489,
+      "expected_3^n": 387420489,
+      "ternary_identity_ok": true,
+      "boundary_euler": 0,
+      "expected_boundary_euler": 0,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 19,
+      "sum_nonempty_faces_including_polytope": 1162261467,
+      "expected_3^n": 1162261467,
+      "ternary_identity_ok": true,
+      "boundary_euler": 2,
+      "expected_boundary_euler": 2,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 20,
+      "sum_nonempty_faces_including_polytope": 3486784401,
+      "expected_3^n": 3486784401,
+      "ternary_identity_ok": true,
+      "boundary_euler": 0,
+      "expected_boundary_euler": 0,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 21,
+      "sum_nonempty_faces_including_polytope": 10460353203,
+      "expected_3^n": 10460353203,
+      "ternary_identity_ok": true,
+      "boundary_euler": 2,
+      "expected_boundary_euler": 2,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 22,
+      "sum_nonempty_faces_including_polytope": 31381059609,
+      "expected_3^n": 31381059609,
+      "ternary_identity_ok": true,
+      "boundary_euler": 0,
+      "expected_boundary_euler": 0,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 23,
+      "sum_nonempty_faces_including_polytope": 94143178827,
+      "expected_3^n": 94143178827,
+      "ternary_identity_ok": true,
+      "boundary_euler": 2,
+      "expected_boundary_euler": 2,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 24,
+      "sum_nonempty_faces_including_polytope": 282429536481,
+      "expected_3^n": 282429536481,
+      "ternary_identity_ok": true,
+      "boundary_euler": 0,
+      "expected_boundary_euler": 0,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 25,
+      "sum_nonempty_faces_including_polytope": 847288609443,
+      "expected_3^n": 847288609443,
+      "ternary_identity_ok": true,
+      "boundary_euler": 2,
+      "expected_boundary_euler": 2,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 26,
+      "sum_nonempty_faces_including_polytope": 2541865828329,
+      "expected_3^n": 2541865828329,
+      "ternary_identity_ok": true,
+      "boundary_euler": 0,
+      "expected_boundary_euler": 0,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 27,
+      "sum_nonempty_faces_including_polytope": 7625597484987,
+      "expected_3^n": 7625597484987,
+      "ternary_identity_ok": true,
+      "boundary_euler": 2,
+      "expected_boundary_euler": 2,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 28,
+      "sum_nonempty_faces_including_polytope": 22876792454961,
+      "expected_3^n": 22876792454961,
+      "ternary_identity_ok": true,
+      "boundary_euler": 0,
+      "expected_boundary_euler": 0,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 29,
+      "sum_nonempty_faces_including_polytope": 68630377364883,
+      "expected_3^n": 68630377364883,
+      "ternary_identity_ok": true,
+      "boundary_euler": 2,
+      "expected_boundary_euler": 2,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 30,
+      "sum_nonempty_faces_including_polytope": 205891132094649,
+      "expected_3^n": 205891132094649,
+      "ternary_identity_ok": true,
+      "boundary_euler": 0,
+      "expected_boundary_euler": 0,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 31,
+      "sum_nonempty_faces_including_polytope": 617673396283947,
+      "expected_3^n": 617673396283947,
+      "ternary_identity_ok": true,
+      "boundary_euler": 2,
+      "expected_boundary_euler": 2,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 32,
+      "sum_nonempty_faces_including_polytope": 1853020188851841,
+      "expected_3^n": 1853020188851841,
+      "ternary_identity_ok": true,
+      "boundary_euler": 0,
+      "expected_boundary_euler": 0,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 33,
+      "sum_nonempty_faces_including_polytope": 5559060566555523,
+      "expected_3^n": 5559060566555523,
+      "ternary_identity_ok": true,
+      "boundary_euler": 2,
+      "expected_boundary_euler": 2,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 34,
+      "sum_nonempty_faces_including_polytope": 16677181699666569,
+      "expected_3^n": 16677181699666569,
+      "ternary_identity_ok": true,
+      "boundary_euler": 0,
+      "expected_boundary_euler": 0,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 35,
+      "sum_nonempty_faces_including_polytope": 50031545098999707,
+      "expected_3^n": 50031545098999707,
+      "ternary_identity_ok": true,
+      "boundary_euler": 2,
+      "expected_boundary_euler": 2,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 36,
+      "sum_nonempty_faces_including_polytope": 150094635296999121,
+      "expected_3^n": 150094635296999121,
+      "ternary_identity_ok": true,
+      "boundary_euler": 0,
+      "expected_boundary_euler": 0,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 37,
+      "sum_nonempty_faces_including_polytope": 450283905890997363,
+      "expected_3^n": 450283905890997363,
+      "ternary_identity_ok": true,
+      "boundary_euler": 2,
+      "expected_boundary_euler": 2,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 38,
+      "sum_nonempty_faces_including_polytope": 1350851717672992089,
+      "expected_3^n": 1350851717672992089,
+      "ternary_identity_ok": true,
+      "boundary_euler": 0,
+      "expected_boundary_euler": 0,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 39,
+      "sum_nonempty_faces_including_polytope": 4052555153018976267,
+      "expected_3^n": 4052555153018976267,
+      "ternary_identity_ok": true,
+      "boundary_euler": 2,
+      "expected_boundary_euler": 2,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 40,
+      "sum_nonempty_faces_including_polytope": 12157665459056928801,
+      "expected_3^n": 12157665459056928801,
+      "ternary_identity_ok": true,
+      "boundary_euler": 0,
+      "expected_boundary_euler": 0,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 41,
+      "sum_nonempty_faces_including_polytope": 36472996377170786403,
+      "expected_3^n": 36472996377170786403,
+      "ternary_identity_ok": true,
+      "boundary_euler": 2,
+      "expected_boundary_euler": 2,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 42,
+      "sum_nonempty_faces_including_polytope": 109418989131512359209,
+      "expected_3^n": 109418989131512359209,
+      "ternary_identity_ok": true,
+      "boundary_euler": 0,
+      "expected_boundary_euler": 0,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 43,
+      "sum_nonempty_faces_including_polytope": 328256967394537077627,
+      "expected_3^n": 328256967394537077627,
+      "ternary_identity_ok": true,
+      "boundary_euler": 2,
+      "expected_boundary_euler": 2,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 44,
+      "sum_nonempty_faces_including_polytope": 984770902183611232881,
+      "expected_3^n": 984770902183611232881,
+      "ternary_identity_ok": true,
+      "boundary_euler": 0,
+      "expected_boundary_euler": 0,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 45,
+      "sum_nonempty_faces_including_polytope": 2954312706550833698643,
+      "expected_3^n": 2954312706550833698643,
+      "ternary_identity_ok": true,
+      "boundary_euler": 2,
+      "expected_boundary_euler": 2,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 46,
+      "sum_nonempty_faces_including_polytope": 8862938119652501095929,
+      "expected_3^n": 8862938119652501095929,
+      "ternary_identity_ok": true,
+      "boundary_euler": 0,
+      "expected_boundary_euler": 0,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 47,
+      "sum_nonempty_faces_including_polytope": 26588814358957503287787,
+      "expected_3^n": 26588814358957503287787,
+      "ternary_identity_ok": true,
+      "boundary_euler": 2,
+      "expected_boundary_euler": 2,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 48,
+      "sum_nonempty_faces_including_polytope": 79766443076872509863361,
+      "expected_3^n": 79766443076872509863361,
+      "ternary_identity_ok": true,
+      "boundary_euler": 0,
+      "expected_boundary_euler": 0,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 49,
+      "sum_nonempty_faces_including_polytope": 239299329230617529590083,
+      "expected_3^n": 239299329230617529590083,
+      "ternary_identity_ok": true,
+      "boundary_euler": 2,
+      "expected_boundary_euler": 2,
+      "euler_ok": true,
+      "recurrence_ok": true
+    },
+    {
+      "n": 50,
+      "sum_nonempty_faces_including_polytope": 717897987691852588770249,
+      "expected_3^n": 717897987691852588770249,
+      "ternary_identity_ok": true,
+      "boundary_euler": 0,
+      "expected_boundary_euler": 0,
+      "euler_ok": true,
+      "recurrence_ok": true
+    }
+  ],
+  "exp2_quotient": [
+    {
+      "regime": "structural_GL(R)_signed-permutation",
+      "m": 6,
+      "N": 1000,
+      "quotient_invariant_pass": 1000,
+      "quotient_invariant_rate": 1.0,
+      "wilson95_low": 0.996173241514445,
+      "wilson95_high": 1.0,
+      "raw_chirotope_same": 0,
+      "raw_rate": 0.0
+    },
+    {
+      "regime": "structural_GL(R)_signed-permutation",
+      "m": 7,
+      "N": 100,
+      "quotient_invariant_pass": 100,
+      "quotient_invariant_rate": 1.0,
+      "wilson95_low": 0.9630065017930143,
+      "wilson95_high": 1.0,
+      "raw_chirotope_same": 0,
+      "raw_rate": 0.0
+    },
+    {
+      "regime": "lattice_GL(Z)_signed-permutation",
+      "m": 6,
+      "N": 300,
+      "quotient_invariant_pass": 300,
+      "quotient_invariant_rate": 1.0,
+      "wilson95_low": 0.9873570287754538,
+      "wilson95_high": 0.9999999999999998,
+      "raw_chirotope_same": 0,
+      "raw_rate": 0.0
+    }
+  ],
+  "exp3_metrics": [
+    {
+      "invariant": "rank_m",
+      "unique_signatures": 1,
+      "reconstructibility_R": 0.0,
+      "conditional_entropy_bits": 10.965784284662087,
+      "collision_rate_given_different_target": 1.0,
+      "collision_pairs": 1999000,
+      "different_target_pairs": 1999000
+    },
+    {
+      "invariant": "f_vector",
+      "unique_signatures": 1,
+      "reconstructibility_R": 0.0,
+      "conditional_entropy_bits": 10.965784284662087,
+      "collision_rate_given_different_target": 1.0,
+      "collision_pairs": 1999000,
+      "different_target_pairs": 1999000
+    },
+    {
+      "invariant": "oriented_matroid",
+      "unique_signatures": 4,
+      "reconstructibility_R": 0.16113688449142127,
+      "conditional_entropy_bits": 9.198791969026649,
+      "collision_rate_given_different_target": 0.3213626813406703,
+      "collision_pairs": 642404,
+      "different_target_pairs": 1999000
+    },
+    {
+      "invariant": "arithmetic_profile",
+      "unique_signatures": 2000,
+      "reconstructibility_R": 1.0,
+      "conditional_entropy_bits": 0.0,
+      "collision_rate_given_different_target": 0.0,
+      "collision_pairs": 0,
+      "different_target_pairs": 1999000
+    },
+    {
+      "invariant": "ehrhart",
+      "unique_signatures": 1765,
+      "reconstructibility_R": 0.9775388831177078,
+      "conditional_entropy_bits": 0.24630376252379826,
+      "collision_rate_given_different_target": 0.00013306653326663331,
+      "collision_pairs": 266,
+      "different_target_pairs": 1999000
+    },
+    {
+      "invariant": "volume",
+      "unique_signatures": 764,
+      "reconstructibility_R": 0.8438175659585003,
+      "conditional_entropy_bits": 1.71266288075255,
+      "collision_rate_given_different_target": 0.0014797398699349675,
+      "collision_pairs": 2958,
+      "different_target_pairs": 1999000
+    },
+    {
+      "invariant": "OM_plus_Ehrhart",
+      "unique_signatures": 1919,
+      "reconstructibility_R": 0.9924757069022656,
+      "conditional_entropy_bits": 0.08250977500432699,
+      "collision_rate_given_different_target": 4.2521260630315156e-05,
+      "collision_pairs": 85,
+      "different_target_pairs": 1999000
+    },
+    {
+      "invariant": "OM_plus_Arithmetic",
+      "unique_signatures": 2000,
+      "reconstructibility_R": 1.0,
+      "conditional_entropy_bits": 0.0,
+      "collision_rate_given_different_target": 0.0,
+      "collision_pairs": 0,
+      "different_target_pairs": 1999000
+    }
+  ],
+  "exp3_om_counts": {
+    "3": 662,
+    "0": 372,
+    "1": 832,
+    "76": 134
+  },
+  "exp4_boxes": [
+    {
+      "n": 3,
+      "max_axis_parameter": 10,
+      "N_boxes": 220,
+      "unpolarized_toric_signatures": 1,
+      "unique_volumes": 120,
+      "unique_ehrhart": 220,
+      "ehrhart_uniqueness_rate": 1.0
+    },
+    {
+      "n": 4,
+      "max_axis_parameter": 7,
+      "N_boxes": 210,
+      "unpolarized_toric_signatures": 1,
+      "unique_volumes": 140,
+      "unique_ehrhart": 210,
+      "ehrhart_uniqueness_rate": 1.0
+    }
+  ],
+  "exp5_adversarial": {
+    "same_ehrhart_different_structural_class": {
+      "G_A": [
+        [
+          1,
+          -1,
+          0
+        ],
+        [
+          -4,
+          4,
+          -3
+        ],
+        [
+          0,
+          -1,
+          2
+        ],
+        [
+          -1,
+          -4,
+          2
+        ],
+        [
+          -1,
+          0,
+          -2
+        ],
+        [
+          -2,
+          3,
+          -3
+        ]
+      ],
+      "G_B": [
+        [
+          2,
+          -1,
+          2
+        ],
+        [
+          4,
+          -4,
+          -1
+        ],
+        [
+          -3,
+          4,
+          0
+        ],
+        [
+          -1,
+          2,
+          -2
+        ],
+        [
+          0,
+          1,
+          -1
+        ],
+        [
+          -3,
+          2,
+          4
+        ]
+      ],
+      "OM_A": 3,
+      "OM_B": 76,
+      "ehrhart_A": [
+        1,
+        12,
+        80,
+        1752
+      ],
+      "ehrhart_B": [
+        1,
+        12,
+        80,
+        1752
+      ],
+      "verified": true
+    },
+    "same_structural_class_different_lattice_counting": {
+      "G_A": [
+        [
+          1,
+          -1,
+          0
+        ],
+        [
+          -4,
+          4,
+          -3
+        ],
+        [
+          0,
+          -1,
+          2
+        ],
+        [
+          -1,
+          -4,
+          2
+        ],
+        [
+          -1,
+          0,
+          -2
+        ],
+        [
+          -2,
+          3,
+          -3
+        ]
+      ],
+      "G_scaled_one_generator": [
+        [
+          2,
+          -2,
+          0
+        ],
+        [
+          -4,
+          4,
+          -3
+        ],
+        [
+          0,
+          -1,
+          2
+        ],
+        [
+          -1,
+          -4,
+          2
+        ],
+        [
+          -1,
+          0,
+          -2
+        ],
+        [
+          -2,
+          3,
+          -3
+        ]
+      ],
+      "OM_A": 3,
+      "OM_scaled": 3,
+      "ehrhart_A": [
+        1,
+        12,
+        80,
+        1752
+      ],
+      "ehrhart_scaled": [
+        1,
+        14,
+        108,
+        2288
+      ],
+      "verified": true
+    },
+    "same_volume_different_ehrhart_boxes": {
+      "a": [
+        1,
+        1,
+        6
+      ],
+      "b": [
+        1,
+        2,
+        3
+      ],
+      "ehrhart_a": [
+        1,
+        16,
+        52,
+        48
+      ],
+      "ehrhart_b": [
+        1,
+        12,
+        44,
+        48
+      ],
+      "same_volume": true,
+      "different_ehrhart": true
+    },
+    "gram_spectrum_not_GLZ_invariant": {
+      "G": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1
+        ]
+      ],
+      "U": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1
+        ]
+      ],
+      "spectrum_G": [
+        1,
+        1,
+        1
+      ],
+      "spectrum_UG": [
+        "(3-sqrt(5))/2",
+        1,
+        "(3+sqrt(5))/2"
+      ],
+      "det_U": 1
+    }
+  },
+  "exp6_wall": [
+    {
+      "t": "-1/20",
+      "t_float": -0.05,
+      "target_minor_det": "-3/5",
+      "zero_minor_count": 0,
+      "zero_minors": "[]",
+      "OM_class": 1
+    },
+    {
+      "t": "-1/100",
+      "t_float": -0.01,
+      "target_minor_det": "-3/25",
+      "zero_minor_count": 0,
+      "zero_minors": "[]",
+      "OM_class": 1
+    },
+    {
+      "t": "-1/1000",
+      "t_float": -0.001,
+      "target_minor_det": "-3/250",
+      "zero_minor_count": 0,
+      "zero_minors": "[]",
+      "OM_class": 1
+    },
+    {
+      "t": "0",
+      "t_float": 0.0,
+      "target_minor_det": "0",
+      "zero_minor_count": 1,
+      "zero_minors": "[[0, 1, 5]]",
+      "OM_class": "undefined_on_discriminant"
+    },
+    {
+      "t": "1/1000",
+      "t_float": 0.001,
+      "target_minor_det": "3/250",
+      "zero_minor_count": 0,
+      "zero_minors": "[]",
+      "OM_class": 3
+    },
+    {
+      "t": "1/100",
+      "t_float": 0.01,
+      "target_minor_det": "3/25",
+      "zero_minor_count": 0,
+      "zero_minors": "[]",
+      "OM_class": 3
+    },
+    {
+      "t": "1/20",
+      "t_float": 0.05,
+      "target_minor_det": "3/5",
+      "zero_minor_count": 0,
+      "zero_minors": "[]",
+      "OM_class": 3
+    }
+  ],
+  "exp7_legacy": [
+    {
+      "n": 2,
+      "legacy_f_boundary": "[8, 8]",
+      "legacy_euler": 0,
+      "expected_euler": 0,
+      "legacy_euler_pass": true,
+      "correct_cube_boundary_f": "[4, 4]"
+    },
+    {
+      "n": 3,
+      "legacy_f_boundary": "[16, 24, 10]",
+      "legacy_euler": 2,
+      "expected_euler": 2,
+      "legacy_euler_pass": true,
+      "correct_cube_boundary_f": "[8, 12, 6]"
+    },
+    {
+      "n": 4,
+      "legacy_f_boundary": "[32, 56, 34, 12]",
+      "legacy_euler": -2,
+      "expected_euler": 0,
+      "legacy_euler_pass": false,
+      "correct_cube_boundary_f": "[16, 32, 24, 8]"
+    }
+  ]
+}

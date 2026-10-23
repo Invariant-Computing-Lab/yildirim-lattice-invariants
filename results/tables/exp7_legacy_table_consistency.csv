@@ -1,0 +1,4 @@
+n,legacy_f_boundary,legacy_euler,expected_euler,legacy_euler_pass,correct_cube_boundary_f
+2,"[8, 8]",0,0,True,"[4, 4]"
+3,"[16, 24, 10]",2,2,True,"[8, 12, 6]"
+4,"[32, 56, 34, 12]",-2,0,False,"[16, 32, 24, 8]"

@@ -1,0 +1,6 @@
+n,precursor_points,hull_vertices_numeric,correct_vertices_2^n,legacy_vertices_claim,max_support_abs_error_500_dirs
+2,9,4,4,8,0.0
+3,27,8,8,16,0.0
+4,81,16,16,32,8.881784197001252e-16
+5,243,32,32,64,1.7763568394002505e-15
+6,729,64,64,128,1.7763568394002505e-15

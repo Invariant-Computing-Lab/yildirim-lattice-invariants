@@ -1,0 +1,4 @@
+regime,m,N,quotient_invariant_pass,quotient_invariant_rate,wilson95_low,wilson95_high,raw_chirotope_same,raw_rate
+structural_GL(R)_signed-permutation,6,1000,1000,1.0,0.996173241514445,1.0,0,0.0
+structural_GL(R)_signed-permutation,7,100,100,1.0,0.9630065017930143,1.0,0,0.0
+lattice_GL(Z)_signed-permutation,6,300,300,1.0,0.9873570287754538,0.9999999999999998,0,0.0

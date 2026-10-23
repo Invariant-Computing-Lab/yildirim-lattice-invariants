@@ -1,0 +1,13 @@
+{
+  "status": "ok",
+  "out": "/mnt/data/Yildirim_Invariant_Geometry_Q1_Package/results",
+  "session": {
+    "python": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+    "platform": "Linux-6.18.35-x86_64-with-glibc2.41",
+    "numpy": "2.3.5",
+    "master_seed": 20260812,
+    "atlas_n": 2000,
+    "scipy": "1.17.0",
+    "matplotlib": "3.10.8"
+  }
+}

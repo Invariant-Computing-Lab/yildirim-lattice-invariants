@@ -1,0 +1,272 @@
+{
+  "excluded_counts": {
+    "NONSOFTWARE_DOC_OR_SECRET_FORMAT": 4
+  },
+  "files": [
+    {
+      "bytes": 282,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/.github/workflows/source-check.yml",
+      "path": ".github/workflows/source-check.yml",
+      "sha256": "ee3916cd30ed52bbdf5f183c874e542fb06f07f073c5434ab1a43a991fc760b0"
+    },
+    {
+      "bytes": 463,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/CITATION.cff",
+      "path": "CITATION.cff",
+      "sha256": "1d37e5c8e030002f9b3c1761191bb622b746cdeabdf87838a6d7e9c33d2cfde8"
+    },
+    {
+      "bytes": 513,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/DEPENDENCIES_AND_CHECKS.md",
+      "path": "DEPENDENCIES_AND_CHECKS.md",
+      "sha256": "6c9e06c54621e81d04f369ab959c644be5ed1c0323e94477078bc6ee8c81a86c"
+    },
+    {
+      "bytes": 7178,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/FILE_MANIFEST.json",
+      "path": "FILE_MANIFEST.json",
+      "sha256": "98694b146cba8ff8487ea204381cfb070628d3495b1f35eeecbd6a681709b92b"
+    },
+    {
+      "bytes": 378,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/LICENSE-NOTE.txt",
+      "path": "LICENSE-NOTE.txt",
+      "sha256": "f8cfabe3f260bc5d3351141d063268306eae66f541f1da82dc1d878926e304c9"
+    },
+    {
+      "bytes": 3882,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/MANIFEST_SHA256.txt",
+      "path": "MANIFEST_SHA256.txt",
+      "sha256": "3e370b51719a2360885122d25609b9efa82180bbc75e98e7f6016d27487e5339"
+    },
+    {
+      "bytes": 1863,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/README.md",
+      "path": "README.md",
+      "sha256": "e046432c899778b3645df32942a0c07aa44044f14e6cd3444b8b299682d99b76"
+    },
+    {
+      "bytes": 215,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/RELEASE_NOTES.md",
+      "path": "RELEASE_NOTES.md",
+      "sha256": "ff1d760ca9965999eb8e3b81b9eab0c150f3ef3ff9482fa22ad6de93bc938326"
+    },
+    {
+      "bytes": 1095,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/RELEASE_SPEC.json",
+      "path": "RELEASE_SPEC.json",
+      "sha256": "bff6a36a545e1c4928bd50270b14ee74076277bcb340445230c9461688da9e07"
+    },
+    {
+      "bytes": 2273,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/UPSTREAM_README.md",
+      "path": "UPSTREAM_README.md",
+      "sha256": "65246b997d7e650d0d8829c889b41ad9501f628742141ff1267c0e232bd574b1"
+    },
+    {
+      "bytes": 923,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/checks/RESULT.json",
+      "path": "checks/RESULT.json",
+      "sha256": "27e9b39eca212a6f9ada9ade3c527d448c30127bda66ae867691e23a19df12c8"
+    },
+    {
+      "bytes": 145,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/code/environment.yml",
+      "path": "code/environment.yml",
+      "sha256": "69891c2d84fffa85d29214d383b46e8f6632fdb06931bc47292838957e53e829"
+    },
+    {
+      "bytes": 40,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/code/requirements.txt",
+      "path": "code/requirements.txt",
+      "sha256": "25412683eb8f0b0049e66b26009838e23bc6cb4d4979f9da0f289599b0dab630"
+    },
+    {
+      "bytes": 28968,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/code/run_all_experiments.py",
+      "path": "code/run_all_experiments.py",
+      "sha256": "f9713fd66b536c0f02c7ae5524ca3731d5b51316d421f2ce6396733e3af7bb99"
+    },
+    {
+      "bytes": 1564,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/docs/CLAIM_BOUNDARIES.md",
+      "path": "docs/CLAIM_BOUNDARIES.md",
+      "sha256": "4d7a17cee1396596313c16cb6e0dc1dbd26ca83118052e30ca40461e11b720b9"
+    },
+    {
+      "bytes": 2448,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/docs/EXPERIMENT_SUMMARY.md",
+      "path": "docs/EXPERIMENT_SUMMARY.md",
+      "sha256": "88ef86c39a56a2c4c523ff0c64187fe8c04a310efbc9f610501142247802111f"
+    },
+    {
+      "bytes": 2273,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/docs/README.md",
+      "path": "docs/README.md",
+      "sha256": "65246b997d7e650d0d8829c889b41ad9501f628742141ff1267c0e232bd574b1"
+    },
+    {
+      "bytes": 1707,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/docs/REVISION_MAP.md",
+      "path": "docs/REVISION_MAP.md",
+      "sha256": "8f4f37b989df917ce2582d3566d8096b61ab3c63db5c5e094fd229168b1c902e"
+    },
+    {
+      "bytes": 1493,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/docs/SUBMISSION_CHECKLIST.md",
+      "path": "docs/SUBMISSION_CHECKLIST.md",
+      "sha256": "00720fcdfd9724411a79b4ca1e5f2561c1752c2b65595ba50147e50a2e3f9395"
+    },
+    {
+      "bytes": 5812,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/docs/style_docx.py",
+      "path": "docs/style_docx.py",
+      "sha256": "651f116309e251f8ff8c47620fbfe8468ef4fa9cbd5628e79af2bc10558ef304"
+    },
+    {
+      "bytes": 34819,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/manuscript/main_manuscript.md",
+      "path": "manuscript/main_manuscript.md",
+      "sha256": "52bd47e2e12b4254144412e3927454f97482d4ff4f124d09f9a95f234118978d"
+    },
+    {
+      "bytes": 42827,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/manuscript/main_manuscript.tex",
+      "path": "manuscript/main_manuscript.tex",
+      "sha256": "d93a78d248503f8a28b799466f03aef612edd5295541fab6f5ce46d4998cfd79"
+    },
+    {
+      "bytes": 48502,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/results/figures/figure_box_discrimination.png",
+      "path": "results/figures/figure_box_discrimination.png",
+      "sha256": "a3b257cd1172c4cbe4f1a5133221f9fc011dc57571c268995baf1e8a91958e1c"
+    },
+    {
+      "bytes": 146727,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/results/figures/figure_collision_rates.png",
+      "path": "results/figures/figure_collision_rates.png",
+      "sha256": "3c86179e581f20def6d2b0e0688985f79cdb73156da58b11fb0d6e86f9d86d3f"
+    },
+    {
+      "bytes": 133081,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/results/figures/figure_reconstructibility.png",
+      "path": "results/figures/figure_reconstructibility.png",
+      "sha256": "c2f3a41ef968e4d7b4bf83ab43730a9b945883743ba1043286272adf9c193e48"
+    },
+    {
+      "bytes": 51891,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/results/figures/figure_wall_crossing.png",
+      "path": "results/figures/figure_wall_crossing.png",
+      "sha256": "fbed1d0cd96643d6a3d6d6f0a72575bdf91d3e8b56b83de80b3891ab19364c13"
+    },
+    {
+      "bytes": 23838,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/results/results_summary.json",
+      "path": "results/results_summary.json",
+      "sha256": "489bbab4485620cbf2468bab66adf909530ab5ceedb32b624b7af60ead6a8838"
+    },
+    {
+      "bytes": 354,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/results/run_stdout.txt",
+      "path": "results/run_stdout.txt",
+      "sha256": "e87b154f9a302787a5a95788414de7b23744a6dbd608ee170144f46d7656da42"
+    },
+    {
+      "bytes": 233,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/results/session_info.json",
+      "path": "results/session_info.json",
+      "sha256": "6c45c2f19edb3632a5c362499747c92634bbe9592bcfd41e4fc0fdad4d9ffb9c"
+    },
+    {
+      "bytes": 264,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/results/tables/exp0_convex_hull.csv",
+      "path": "results/tables/exp0_convex_hull.csv",
+      "sha256": "ef0c9e680af0a82347bdcfd361ddc74e8344fe89470d5c842671cf1bdb8508d2"
+    },
+    {
+      "bytes": 2641,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/results/tables/exp1_exact_identities.csv",
+      "path": "results/tables/exp1_exact_identities.csv",
+      "sha256": "cfe4c50e761f5f19a3ea2651fcea314d99839ea54fcb31d2699b45f7485cf451"
+    },
+    {
+      "bytes": 368,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/results/tables/exp2_quotient_preservation.csv",
+      "path": "results/tables/exp2_quotient_preservation.csv",
+      "sha256": "c74a80407ed1eeb51ea42ef6e59a0d68da8cfda7488d77305ce1d4cc5c717b17"
+    },
+    {
+      "bytes": 196244,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/results/tables/exp3_random_atlas.csv",
+      "path": "results/tables/exp3_random_atlas.csv",
+      "sha256": "d2a6cfeb9f3bdc9043c88aedfb5c55c0a3b75e96903d07e57e13b7cdbb467939"
+    },
+    {
+      "bytes": 712,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/results/tables/exp3_reconstructibility_metrics.csv",
+      "path": "results/tables/exp3_reconstructibility_metrics.csv",
+      "sha256": "87be139a31531f82ed9e1b34a495f55ae1a19aef8cdf94d644ec675f3978425e"
+    },
+    {
+      "bytes": 19162,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/results/tables/exp4_boxes.csv",
+      "path": "results/tables/exp4_boxes.csv",
+      "sha256": "5e2ac0e8ebdf2c586048e2e995d77af5b892039470b2d5890248df821fc60d7e"
+    },
+    {
+      "bytes": 160,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/results/tables/exp4_boxes_summary.csv",
+      "path": "results/tables/exp4_boxes_summary.csv",
+      "sha256": "fdf2224c7469651ad7ce16dd768e65f453eef008f65aab10895c86e7d2d71989"
+    },
+    {
+      "bytes": 2643,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/results/tables/exp5_adversarial_cases.json",
+      "path": "results/tables/exp5_adversarial_cases.json",
+      "sha256": "1aacdda7811b5089535b8d74fb9a064482968b5e7b6db02b1e383defc6490900"
+    },
+    {
+      "bytes": 272,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/results/tables/exp6_wall_crossing.csv",
+      "path": "results/tables/exp6_wall_crossing.csv",
+      "sha256": "f9e2329f53985f56d382060dcf8f9ef1381ebcf9bc99ca9fdbbf9cb3fad714fe"
+    },
+    {
+      "bytes": 1925,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/results/tables/exp6_wall_roots.json",
+      "path": "results/tables/exp6_wall_roots.json",
+      "sha256": "bf31e82fe2fa94df25fc719ae67e030e75266e6f90a2ca763df45d69a0e43b6d"
+    },
+    {
+      "bytes": 212,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/results/tables/exp7_legacy_table_consistency.csv",
+      "path": "results/tables/exp7_legacy_table_consistency.csv",
+      "sha256": "fb04fde43b9198627fd921826c3d6cc6fcaa55c0d1a2ce5c1d02d76833375835"
+    },
+    {
+      "bytes": 2366,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/run_checks.py",
+      "path": "run_checks.py",
+      "sha256": "9a59bff276aad8abeba201a01fa2a29525db6af9e71ebb83a58a7cc6cea56990"
+    },
+    {
+      "bytes": 15753,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/supplement/supplementary_appendix.md",
+      "path": "supplement/supplementary_appendix.md",
+      "sha256": "528c5f557c7d8f16f2cc26accb20bf7891d2a4082eeffc5f1736eaa15727b14c"
+    },
+    {
+      "bytes": 26813,
+      "original_source_member": "Invariant_CP03R1/github/yildirim-lattice-invariants/supplement/supplementary_appendix.tex",
+      "path": "supplement/supplementary_appendix.tex",
+      "sha256": "882b144f6e5c22a009e33262a6fb490af620873e35170fcc8e2a8a559ab38027"
+    }
+  ],
+  "published_files": 43,
+  "repository": "github/yildirim-lattice-invariants",
+  "schema": "invariant.source_member_manifest.v1",
+  "scope": "source files + minimal repository metadata; no new training or independent experiment",
+  "selected_from_files": 47,
+  "source_archive": "CP03R1",
+  "source_archive_sha256": "9507b5a42e661ae7588ab69cb395597749f043c419ebd981a6c91051516a3209"
+}
